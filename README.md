@@ -16,6 +16,7 @@ By collating and sharing these to my school using GitHub, I am building up my pr
 In this section I will Propose, develop and sustain a range of interests and ideas which are directly related to my personal learning style and learning goals.
 I will attempt to extend my ideas and methods with study of established theory, practice and processes of others.
 
+
 #### Scratch
 During a lecture the class played around with Scratch.
 Scratch is a visual programming language, I experimented with to help better understand and conceptualise some of the fundamentals of programming.
@@ -31,6 +32,7 @@ Scratch uses unique templates of pieces similar to a jigsaw puzzle, allowing me 
 
 
 <a href="scratch1"><img src="https://i.imgur.com/gBk6hNq.png" title="scratch1" /></a>
+
 
 ### GitHub
 GitHub is a site where you can upload, edit and test code on your own or collaboratively as a team. GitHub includes Git which is a software for tracking changes in any set of files.
