@@ -31,11 +31,8 @@ Scratch uses unique templates of pieces similar to a jigsaw puzzle, allowing me 
 
 ### GitHub
 GitHub is a site where you can upload, edit and test code on your own or collaboratively as a team. GitHub includes Git which is a software for tracking changes in any set of files.
-
 During one of my lectures my professor recommended we get started with the basics of GitHub early to make it easier in the future when it will undoubtedly become a useful tool.
-
 I learned some of the basics of mark-up, a text formatting language used to write and comment on GitHub pages as well as learning other options such as HTML.
-
 I forked my professor's GitHub repository to get an idea of how code sharing actually works as well as making my own GitHub pages where I could test some mark-up formatting and start a research depository as seen below.
 
 <a href="gitlogo"><img src="https://i.imgur.com/0sCtJCO.jpg" title="gitlogo" /></a>
