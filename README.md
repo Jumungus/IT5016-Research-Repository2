@@ -2,17 +2,14 @@
 ### Aiden McFall 20220194 Whitecliffe
 
 For this assignment, I am expected to create a research repository.
-
 My Research Repository is:
 - a collection of my own code
 - code that I've been inspired by (with comments)
 - things that I think are interesting or just don't understand (with comments)
-
 By collating and sharing these to my school using GitHub, I am building up my practice and research and documenting it all at once.
 
 ## Research and Exploration
 #### Ability to resource, generate and develop ideas, programming practices and research
-
 In this section I will Propose, develop and sustain a range of interests and ideas which are directly related to my personal learning style and learning goals.
 I will attempt to extend my ideas and methods with study of established theory, practice and processes of others.
 
@@ -20,14 +17,12 @@ I will attempt to extend my ideas and methods with study of established theory, 
 #### Scratch
 During a lecture the class played around with Scratch.
 Scratch is a visual programming language, I experimented with to help better understand and conceptualise some of the fundamentals of programming.
-
 This tool helped me experiment and understand some data science fundamentals such as:
 - variables
 - loops
 - arithmetic operations 
 - control flow
 - user inputs.
-
 Scratch uses unique templates of pieces similar to a jigsaw puzzle, allowing me to conceptualise data science fundamentals in a more friendly way.
 
 
