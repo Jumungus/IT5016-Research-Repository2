@@ -83,6 +83,6 @@ Below is a function I built as an educational challange demonstrating the usage 
 During some python practice I built a simple program that will repeat untill it gets a responce it is happy with.
 Recursive programs seem to be a big part of how python is built and used.
 
-<a href="pythonrecursicefunctionexample"><img src="https://i.imgur.com/6rUqEJY.png" width="300" height="500" title="pythonrecursicefunctionexample" /></a>
+<a href="pythonrecursicefunctionexample"><img src="https://i.imgur.com/6rUqEJY.png" width="420" height="500" title="pythonrecursicefunctionexample" /></a>
 
 
