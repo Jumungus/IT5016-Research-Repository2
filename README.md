@@ -45,5 +45,5 @@ Python is a beginner friendly programming language that runs on almost all syste
 I researched some programs to see what can be built on python and was quickly shown just how versatile it can be with programs from web development to machine learning.
 I have been learning the basics of python and will show some of my practice later on in my repository.
 
-<a href="pythonpic"><img src="https://i.imgur.com/CErMV3J.png" title="pythonpic" /></a>
+<a href="pythonpic"><img src="https://i.imgur.com/CErMV3J.png" width="200" height="200" title="pythonpic" /></a>
 
