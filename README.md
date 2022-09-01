@@ -33,7 +33,7 @@ I built a few games both with unique controls and win conditions.
 <a href="scratch1"><img src="https://i.imgur.com/gBk6hNq.png" title="scratch1" /></a>
 
 
-### GitHub
+### GitHub & Markdown
 GitHub is a site where you can upload, edit and test code on your own or collaboratively as a team. GitHub includes Git which is a software for tracking changes in any set of files.
 During one of my lectures my professor recommended we get started with the basics of GitHub early to make it easier in the future when it will undoubtedly become a useful tool.
 I learned some of the basics of mark-up, a text formatting language used to write and comment on GitHub pages as well as learning other options such as HTML.
@@ -78,5 +78,11 @@ Below is a function I built as an educational challange demonstrating the usage 
 - While loops
 
 <a href="pythonexample3"><img src="https://i.imgur.com/vTyXH7t.png" title="pythonexample3" /></a>
+
+### Recursive function
+During some python practice I built a simple program that will repeat untill it gets a responce it is happy with.
+Recursive programs seem to be a big part of how python is built and used.
+
+<a href="pythonrecursicefunctionexample"><img src="https://i.imgur.com/6rUqEJY.png" width="300" height="500" title="pythonrecursicefunctionexample" /></a>
 
 
