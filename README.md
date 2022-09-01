@@ -68,4 +68,15 @@ Below is a function I built demonstrating some practical inputs, calculations an
 
 <a href="pythonexample2"><img src="https://i.imgur.com/yVLs1xK.png" title="pythonexample2" /></a>
 
+### Python challenge
+Below is a function I built as an educational challange demonstrating the usage of:
+- Functions: sum() and len()
+- The .append method 
+- Lists
+- Datatype conversions
+- User input
+- While loops
+
+<a href="pythonexample3"><img src="https://i.imgur.com/vTyXH7t.png" title="pythonexample3" /></a>
+
 
