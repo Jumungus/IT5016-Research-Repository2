@@ -64,7 +64,7 @@ This is a good example of how a basic function can be used practically.
 <a href="pythonexample1"><img src="https://i.imgur.com/zPVDJes.png" title="pythonexample1" /></a>
 
 ### Arithmetic operations
-Below are some practical inputs, calculations and conversions in a python program I built.
+Below is a function I built demonstrating some practical inputs, calculations and conversions in a python.
 
 <a href="pythonexample2"><img src="https://i.imgur.com/yVLs1xK.png" title="pythonexample2" /></a>
 
