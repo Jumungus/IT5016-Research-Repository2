@@ -24,8 +24,8 @@ This tool helped me experiment and understand some data science fundamentals suc
 - control flow
 - user inputs.
 Scratch uses unique templates of pieces similar to a jigsaw puzzle, allowing me to conceptualise data science fundamentals in a more friendly way.
-
-
+I tested some games people had built to learn decide what mechanics I will use for my game.
+I built a few games both with unique controls and win conditions.
 <a href="scratch1"><img src="https://i.imgur.com/gBk6hNq.png" title="scratch1" /></a>
 
 
