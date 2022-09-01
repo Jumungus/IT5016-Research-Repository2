@@ -101,6 +101,7 @@ I decided to build a basic calculator as I could then focus primarily on my plan
 Below I will record my development process including my work enviroment/setup aswell as my planning, testing and presentation/use of the project.
 
 ### Paper Plan
+
 I sketched up a basic paper plan on drawing.io this plan had my design for my GUI as well as the arithmetic operations I wish for it to perform.
 <a href="caalcpaper"><img src="https://i.imgur.com/OE2JS4M.png" title="caalcpaper" /></a>
 
