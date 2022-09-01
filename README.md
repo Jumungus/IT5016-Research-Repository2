@@ -47,6 +47,8 @@ I have been learning the basics of python and will show some of my practice late
 
 <a href="pythonpic"><img src="https://i.imgur.com/CErMV3J.png" width="200" height="200" title="pythonpic" /></a>
 
+<br>
+
 ## Analysis and Evaluation
 #### Ability to critically analyse and evaluate creative process and research towards achieving creative outcomes.
 Applies and integrates comprehensive depth of knowledge and understanding of appropriate principles and processes of the subject specialism, through the production of creative outcomes.
