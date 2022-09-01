@@ -37,7 +37,7 @@ During one of my lectures my professor recommended we get started with the basic
 I learned some of the basics of mark-up, a text formatting language used to write and comment on GitHub pages as well as learning other options such as HTML.
 I forked my professor's GitHub repository to get an idea of how code sharing actually works as well as making my own GitHub pages where I could test some mark-up formatting and start a research depository as seen below.
 
-<a href="gitlogo"><img src="https://i.imgur.com/0sCtJCO.jpg" title="gitlogo" /></a>
+<a href="git2"><img src="https://i.imgur.com/N7XWlLX.png" title="git2" /></a>
 
 
 ### Python
