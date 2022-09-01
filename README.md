@@ -53,4 +53,19 @@ I have been learning the basics of python and will show some of my practice late
 
 ## Analysis and Evaluation
 #### Ability to critically analyse and evaluate creative process and research towards achieving creative outcomes.
-Applies and integrates comprehensive depth of knowledge and understanding of appropriate principles and processes of the subject specialism, through the production of creative outcomes.
+In this section I will apply and prove my understanding of computer science and programming languages, specifically python by producing and experimenting with creative programs.
+I practised my python with small challenges online. Below are a few examples demonstrating my current python ability as well as why I believed it was worth adding to my research repository
+
+
+### Practical input and calculations for conversions in python
+Below is a function I built that can take multiple inputs and compare them to a predetermined condition.
+This is a good example of how a basic function can be used practically.
+
+<a href="pythonexample1"><img src="https://i.imgur.com/zPVDJes.png" title="pythonexample1" /></a>
+
+### Arithmetic operations
+Below are some practical inputs, calculations and conversions in a python program I built.
+
+<a href="pythonexample2"><img src="https://i.imgur.com/yVLs1xK.png" title="pythonexample2" /></a>
+
+
