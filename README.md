@@ -8,6 +8,8 @@ My Research Repository is:
 - things that I think are interesting or just don't understand (with comments)
 By collating and sharing these to my school using GitHub, I am building up my practice and research and documenting it all at once.
 
+<br>
+
 ## Research and Exploration
 #### Ability to resource, generate and develop ideas, programming practices and research
 In this section I will Propose, develop and sustain a range of interests and ideas which are directly related to my personal learning style and learning goals.
