@@ -22,7 +22,8 @@ This tool helped me experiment and understand some data science fundamentals suc
 - loops
 - arithmetic operations 
 - control flow
-- user inputs.
+- user inputs
+
 Scratch uses unique templates of pieces similar to a jigsaw puzzle, allowing me to conceptualise data science fundamentals in a more friendly way.
 I tested some games people had built to learn decide what mechanics I will use for my game.
 I built a few games both with unique controls and win conditions.
@@ -37,3 +38,7 @@ I learned some of the basics of mark-up, a text formatting language used to writ
 I forked my professor's GitHub repository to get an idea of how code sharing actually works as well as making my own GitHub pages where I could test some mark-up formatting and start a research depository as seen below.
 
 <a href="gitlogo"><img src="https://i.imgur.com/0sCtJCO.jpg" title="gitlogo" /></a>
+
+
+### Python
+
