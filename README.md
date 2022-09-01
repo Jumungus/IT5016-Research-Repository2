@@ -57,7 +57,7 @@ In this section I will apply and prove my understanding of computer science and 
 I practised my python with small challenges online. Below are a few examples demonstrating my current python ability as well as why I believed it was worth adding to my research repository
 
 
-### Practical input and calculations for conversions in python
+### Practical inputs, calculations & conversions
 Below is a function I built that can take multiple inputs and compare them to a predetermined condition.
 This is a good example of how a basic function can be used practically.
 
