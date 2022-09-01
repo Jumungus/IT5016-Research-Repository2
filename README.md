@@ -54,7 +54,7 @@ I have been learning the basics of python and will show some of my practice late
 ## Analysis and Evaluation
 #### Ability to critically analyse and evaluate creative process and research towards achieving creative outcomes.
 In this section I will apply and prove my understanding of computer science and programming languages, specifically python by producing and experimenting with creative programs.
-I practised my python with small challenges online. Below are a few examples demonstrating my current python ability as well as why I believed it was worth adding to my research repository
+I realise to achive my goals I will need to learn and pratice my programing. So I practised my python with small challenges online. Below are a few examples demonstrating my current python ability as well as why I believed it was worth adding to my research repository
 
 
 ### Practical inputs, calculations & conversions
@@ -84,5 +84,16 @@ During some python practice I built a simple program that will repeat untill it 
 Recursive programs seem to be a big part of how python is built and used.
 
 <a href="pythonrecursicefunctionexample"><img src="https://i.imgur.com/6rUqEJY.png" width="420" height="500" title="pythonrecursicefunctionexample" /></a>
+
+### tKinter
+I realised I didn’t know how user interfaces are built and managed, I did some research and learned about Tkinter, a python module I can import which allows me to build and design custom GUIs for my code.
+After some study and researching common uses I practised building with tkinter. I found this was helpful for me as most software I have ever used has intractable interfaces and helped me envision pontital for future more advanced projects.
+
+
+<br>
+
+## Application of Knowledge and Understanding
+#### Ability to integrate research, knowledge and understanding with practice to achieve creative outcomes.
+In this section I will demonstrate comprehensive knowledge and understanding of appropriate principles and processes by building a program as well as explaining and  justifying my creative processes.
 
 
